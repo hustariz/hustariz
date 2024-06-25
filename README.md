@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm hustariz</h1>
 <h3 align="center">A passionate full stack developper from France</h3>
 
-- 🔭 I’m currently working on **RascarinoBingo**
+- 🔭 I’m currently working on [RascarinoBingo (Trading App)](In developpement)
 
 - 🌱 I’m currently learning **https://fullstackopen.com/en/**
 
