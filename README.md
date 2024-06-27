@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm hustariz</h1>
 <h3 align="center">A passionate Full Stack developper from France</h3>
 
-- 🔭 I’m currently working on RascarinoBingo, a web application designed to help you manage your emotion<br> and risk management during your trading session by providing a playful frame!
+- 🔭 I’m currently working on RascarinoBingo, a web application designed to help you manage your emotion and risk management<br> during your trading session by providing a playful & stimulant frame!
 
 - 🌱 I’m currently learning **https://fullstackopen.com/en/**
 
