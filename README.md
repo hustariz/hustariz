@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hustariz</h1>
-<h3 align="center">A passionate Full Stack developper from France</h3>
+<h3 align="center">A passionate Software / Full Stack developper</h3>
 
 - 🔭 I’m currently working on RascaroBingo, a web application designed to help you manage your emotion and risk management<br> during your trading session by providing a playful & stimulant frame!
 
