@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm hustariz</h1>
 <h3 align="center">A passionate Software / Full Stack developper</h3>
 
-- 🔭 I’m currently working on RascaroBingo, a trading application with a bingo-style scoring system and risk management features,<br> designed to help you manage your emotion during your trading session by providing a playful & stimulant frame!
+- 🔭 I’m currently working on RascaroBingo, a trading application with a bingo-style scoring system and risk management features,<br> designed to help you managing your emotions during your trading session by providing a playful & stimulant frame!
 
 - 🌱 I’m currently learning **https://fullstackopen.com/en/**
 
