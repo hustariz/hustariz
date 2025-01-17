@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm hustariz</h1>
 <h3 align="center">A passionate Software / Full Stack developper</h3>
 
-- 🔭 I’m currently working on RascaroBingo: https://rascarobingo-wley.onrender.com/ <br> A trading application with a bingo-style scoring system and risk management features.
+- 🔭 I’m currently working on RascaroBingo: https://www.rascarobingo.com <br> A trading application with a bingo-style scoring system and risk management features.
 
 - 🌱 I’m currently learning **https://fullstackopen.com/en/**
 
